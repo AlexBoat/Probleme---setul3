@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\bin\Debug\Problema14.exe.config
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\bin\Debug\Problema14.exe
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\bin\Debug\Problema14.pdb
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\obj\Debug\Problema14.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\obj\Debug\Problema14.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\obj\Debug\Problema14.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\obj\Debug\Problema14.exe
+C:\Users\user\Desktop\C# Things\Problema14\Problema14\obj\Debug\Problema14.pdb
